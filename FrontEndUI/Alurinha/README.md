@@ -4,3 +4,10 @@ A Web raiz de antigamente parava em algumas poucas propriedades do CSS. Mas não
 
 Desde o uso de ferramentas de debug, passando por layouts avançados com flexbox. E, o mais importante, como lidar com o mundo multidispositivo que temos hoje com a criação de sites responsivos e mobile-first.
 
+* Alurinha
+
+  Projeto para estudo de FlexBox
+  
+  
+  
+
