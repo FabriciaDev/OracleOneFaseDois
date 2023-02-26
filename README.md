@@ -9,6 +9,8 @@ trabalhando com HTML e CSS e dominando as principais ferramentas de personaliza√
 utilizadas no cotidiano do desenvolvedor.
 
 * Alurinha (FlexBox)
+* Flexzinho (Do mesmo curso de Flexbox)
+* Apperia (Responsividade)
 
 ## JavaScript
 
