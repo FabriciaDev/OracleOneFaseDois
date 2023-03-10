@@ -11,3 +11,4 @@ utilizadas no cotidiano do desenvolvedor.
 * Alurinha (FlexBox)
 * Flexzinho (Do mesmo curso de Flexbox)
 * Apperia (Responsividade)
+* Css - master
